@@ -1,0 +1,18 @@
+
+bin/NeuralNetwork
+
+obj/friendlyFunctions\.o
+
+obj/hLayer\.o
+
+obj/layer\.o
+
+obj/main\.o
+
+obj/mnistLoader\.o
+
+obj/NeuralNetwork\.o
+
+obj/outLayer\.o
+
+src/outLayer \(copie\)\.h

@@ -1,10 +1,8 @@
-
-
+#include "NeuralNetwork.h"
 #include <iostream>
 #include "hLayer.h"
 #include "outLayer.h"
 #include "mnistLoader.h"
-
 
 /*
 

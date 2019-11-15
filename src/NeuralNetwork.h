@@ -1,11 +1,12 @@
-
+#ifndef  __NEURAL_NETWORK__
+#define  __NEURAL_NETWORK__
 
 #include <iostream>
 #include "hLayer.h"
 #include "outLayer.h"
 #include "mnistLoader.h"
 
-
+#endif
 /*
 
 #ifndef NEURALNETWORK_MNIST_MYNET_H
